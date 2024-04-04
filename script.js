@@ -1,0 +1,2 @@
+
+open("GeometryDash.exe");
